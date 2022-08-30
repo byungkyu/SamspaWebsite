@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SamspaWebsite/static/css/main.3809f931.css",
-    "main.js": "/SamspaWebsite/static/js/main.01ac887d.js",
+    "main.js": "/SamspaWebsite/static/js/main.9a57155d.js",
     "static/js/787.6e79647c.chunk.js": "/SamspaWebsite/static/js/787.6e79647c.chunk.js",
     "index.html": "/SamspaWebsite/index.html",
     "main.3809f931.css.map": "/SamspaWebsite/static/css/main.3809f931.css.map",
-    "main.01ac887d.js.map": "/SamspaWebsite/static/js/main.01ac887d.js.map",
+    "main.9a57155d.js.map": "/SamspaWebsite/static/js/main.9a57155d.js.map",
     "787.6e79647c.chunk.js.map": "/SamspaWebsite/static/js/787.6e79647c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3809f931.css",
-    "static/js/main.01ac887d.js"
+    "static/js/main.9a57155d.js"
   ]
 }
