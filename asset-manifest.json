@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SamspaWebsite/static/css/main.3809f931.css",
-    "main.js": "/SamspaWebsite/static/js/main.19a5886d.js",
-    "static/js/787.6e79647c.chunk.js": "/SamspaWebsite/static/js/787.6e79647c.chunk.js",
+    "main.css": "/SamspaWebsite/static/css/main.4c262083.css",
+    "main.js": "/SamspaWebsite/static/js/main.393e70d3.js",
+    "static/js/787.d0487539.chunk.js": "/SamspaWebsite/static/js/787.d0487539.chunk.js",
     "index.html": "/SamspaWebsite/index.html",
-    "main.3809f931.css.map": "/SamspaWebsite/static/css/main.3809f931.css.map",
-    "main.19a5886d.js.map": "/SamspaWebsite/static/js/main.19a5886d.js.map",
-    "787.6e79647c.chunk.js.map": "/SamspaWebsite/static/js/787.6e79647c.chunk.js.map"
+    "main.4c262083.css.map": "/SamspaWebsite/static/css/main.4c262083.css.map",
+    "main.393e70d3.js.map": "/SamspaWebsite/static/js/main.393e70d3.js.map",
+    "787.d0487539.chunk.js.map": "/SamspaWebsite/static/js/787.d0487539.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3809f931.css",
-    "static/js/main.19a5886d.js"
+    "static/css/main.4c262083.css",
+    "static/js/main.393e70d3.js"
   ]
 }
